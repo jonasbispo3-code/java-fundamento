@@ -11,7 +11,7 @@ public class pessoa {
        this.altura = altura;
     }
 
-    // Método
+    // Maneira
      public void apresentar(){
         System.out.println("nome: " + nome);
         System.out.println("idade: " + idade);
